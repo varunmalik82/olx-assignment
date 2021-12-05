@@ -6,3 +6,4 @@ target/
 karglobal-assignment.iml
 .DS_Store
 .git
+.log
